@@ -17,6 +17,7 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 ### Start with root
 
 For rooted devices, just start directly.
+![1000126827](https://github.com/user-attachments/assets/894b6027-e611-48f9-8a8c-0768b9d49698)
 
 ### Start via wireless debugging
 
